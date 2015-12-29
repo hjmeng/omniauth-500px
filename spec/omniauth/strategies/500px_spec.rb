@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe OmniAuth::Strategies::f00px do
+describe OmniAuth::Strategies::F00Px do
   subject do
     OmniAuth::Strategies::f00px.new({})
   end
