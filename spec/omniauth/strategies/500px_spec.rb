@@ -7,7 +7,7 @@ describe OmniAuth::Strategies::FiveHundredPx do
 
   context "client options" do
     it 'should have correct name' do
-      subject.options.name.should eq("500px")
+      subject.options.name.should eq("f00px")
     end
 
     it 'should have correct site' do
