@@ -1,8 +1,8 @@
 require 'spec_helper'
 
-describe OmniAuth::Strategies::FiveHundredPx do
+describe OmniAuth::Strategies::f00px do
   subject do
-    OmniAuth::Strategies::FiveHundredPx.new({})
+    OmniAuth::Strategies::f00px.new({})
   end
 
   context "client options" do
