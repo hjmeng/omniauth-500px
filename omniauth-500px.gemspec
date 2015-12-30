@@ -5,7 +5,7 @@ require "omniauth-500px/version"
 # p OmniAuth::FiveHundredPx::VERSION
 Gem::Specification.new do |s|
   s.name        = "omniauth-500px"
-  s.version     = OmniAuth::f00px::VERSION
+  s.version     = OmniAuth::F00px::VERSION
   s.authors     = ["Arthur Neves"]
   s.email       = ["arthurnn@gmail.com"]
   s.homepage    = "https://github.com/arthurnn/omniauth-500px"
