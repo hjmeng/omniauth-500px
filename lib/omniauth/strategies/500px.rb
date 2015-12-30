@@ -4,7 +4,7 @@ require 'multi_json'
 module OmniAuth
   module Strategies
 
-    class f00px < OmniAuth::Strategies::OAuth
+    class F00px < OmniAuth::Strategies::OAuth
       
       option :name, 'f00px'
       
