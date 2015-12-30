@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe OmniAuth::Strategies::F00px do
   subject do
-    OmniAuth::Strategies::f00px.new({})
+    OmniAuth::Strategies::F00px.new({})
   end
 
   context "client options" do
